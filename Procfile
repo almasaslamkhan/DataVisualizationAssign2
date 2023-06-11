@@ -1,1 +1,1 @@
-worker: python trial.py
+web: python trial.py
